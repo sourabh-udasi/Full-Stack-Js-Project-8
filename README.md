@@ -16,7 +16,7 @@
 
 - I learned about **layout** making around the webpage.
 
-- I also learned how to add diffrent fonts from the **Google Fonts**
+- Learned how we can center any svgs, images as background by using **background-position** & **background-repeat**.
 - I also learned how to design **Buttons** and **Beautiful Navbar**.
 
 ---
@@ -27,4 +27,4 @@
 
 ## Screenshot
 
-![Desktop](./Screen-shot/5.png)
+![Desktop](./Screen-shot/8.png)
